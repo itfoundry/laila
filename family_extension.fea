@@ -10,15 +10,15 @@
 @mvLiquids = [
   dvmvR
   dvmvRR
-  dvmvL
-  dvmvLL
+# dvmvL
+# dvmvLL
 ];
 
 lookup RA_to_vLiquid {
   sub dvRA' dvmvR  by dvvR;
   sub dvRA' dvmvRR by dvvRR;
-  sub dvRA' dvmvL  by dvvL;
-  sub dvRA' dvmvLL by dvvLL;
+# sub dvRA' dvmvL  by dvvL;
+# sub dvRA' dvmvLL by dvvLL;
 } RA_to_vLiquid;
 
 lookup mvLiquid_to_Reph {
@@ -58,12 +58,8 @@ lookup mvLiquid_to_Reph {
   dvG_NA
   dvGH_NA
   dvC_NA
-  dvCH_NA
   dvJ_NA
   dvJH_NA
-  dvTT_NA
-  dvTTH_NA
-  dvDD_NA
   dvT_NA
   dvTH_NA
   dvD_NA
@@ -85,7 +81,6 @@ lookup mvLiquid_to_Reph {
   dvK_S_P_RA
   dvK_P_RA
   dvT_K_RA
-  dvT_KH_NA
   dvT_KH_RA
   dvT_P_RA
   dvN_DH_RA
