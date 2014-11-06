@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Laila-Medium.GlyphOrder.ttx"/>
+  <head src="Laila-Medium._h_e_a_d.ttx"/>
+  <hhea src="Laila-Medium._h_h_e_a.ttx"/>
+  <maxp src="Laila-Medium._m_a_x_p.ttx"/>
+  <OS_2 src="Laila-Medium.O_S_2f_2.ttx"/>
+  <name src="Laila-Medium._n_a_m_e.ttx"/>
+  <cmap src="Laila-Medium._c_m_a_p.ttx"/>
+  <post src="Laila-Medium._p_o_s_t.ttx"/>
+  <CFF src="Laila-Medium.C_F_F_.ttx"/>
+  <GDEF src="Laila-Medium.G_D_E_F_.ttx"/>
+  <GPOS src="Laila-Medium.G_P_O_S_.ttx"/>
+  <GSUB src="Laila-Medium.G_S_U_B_.ttx"/>
+  <hmtx src="Laila-Medium._h_m_t_x.ttx"/>
+</ttFont>
