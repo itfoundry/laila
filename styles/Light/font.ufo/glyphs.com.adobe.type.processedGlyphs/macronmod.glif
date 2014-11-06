@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="macronmod">
+  <advance width="341" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="57" y="651" />
+      <point x="30" y="651" />
+      <point x="12" y="639" />
+      <point type="curve" x="12" y="617" />
+      <point x="12" y="612" />
+      <point x="13" y="607" />
+      <point type="curve" x="16" y="604" />
+      <point type="line" x="283" y="604" />
+      <point x="311" y="604" />
+      <point x="329" y="616" />
+      <point type="curve" x="329" y="638" />
+      <point x="329" y="644" />
+      <point x="328" y="648" />
+      <point type="curve" x="325" y="651" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="W">
+  <advance width="970" />
+  <unicode hex="0057" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="510" y="658" />
+      <point x="496" y="710" />
+      <point x="477" y="725" />
+      <point type="curve" x="448" y="725" />
+      <point x="424" y="725" />
+      <point x="402" y="712" />
+      <point type="curve" x="390" y="687" />
+      <point x="410" y="679" />
+      <point x="420" y="665" />
+      <point type="curve" x="429" y="634" />
+      <point type="line" x="462" y="518" />
+      <point x="425" y="344" />
+      <point x="372" y="180" />
+      <point type="curve" x="304" y="67" />
+      <point type="line" x="145" y="652" />
+      <point x="130" y="709" />
+      <point x="108" y="725" />
+      <point type="curve" x="79" y="725" />
+      <point x="55" y="725" />
+      <point x="32" y="712" />
+      <point type="curve" x="20" y="687" />
+      <point x="40" y="679" />
+      <point x="51" y="665" />
+      <point type="curve" x="59" y="634" />
+      <point type="line" x="228" y="52" />
+      <point x="241" y="6" />
+      <point x="259" y="-8" />
+      <point type="curve" x="294" y="-8" />
+      <point x="353" y="-8" />
+      <point x="448" y="204" />
+      <point type="curve" x="498" y="388" />
+      <point type="line" x="593" y="52" />
+      <point x="605" y="8" />
+      <point x="624" y="-8" />
+      <point type="curve" x="654" y="-8" />
+      <point x="753" y="-8" />
+      <point x="918" y="345" />
+      <point type="curve" x="918" y="563" />
+      <point x="918" y="660" />
+      <point x="889" y="725" />
+      <point type="curve" x="839" y="725" />
+      <point x="820" y="725" />
+      <point x="796" y="716" />
+      <point type="curve" x="784" y="704" />
+      <point x="807" y="688" />
+      <point x="829" y="617" />
+      <point type="curve" x="829" y="532" />
+      <point x="829" y="406" />
+      <point x="776" y="183" />
+      <point type="curve" x="670" y="61" />
+    </contour>
+  </outline>
+</glyph>

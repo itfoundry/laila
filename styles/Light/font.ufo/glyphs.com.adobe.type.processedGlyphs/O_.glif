@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="O">
+  <advance width="761" />
+  <unicode hex="004F" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="403" y="47" />
+      <point x="275" y="47" />
+      <point x="158" y="133" />
+      <point type="curve" x="140" y="335" />
+      <point x="122" y="539" />
+      <point x="229" y="666" />
+      <point type="curve" x="358" y="666" />
+      <point x="488" y="666" />
+      <point x="607" y="578" />
+      <point type="curve" x="622" y="375" />
+      <point x="639" y="173" />
+      <point x="533" y="47" />
+    </contour>
+    <contour>
+      <point type="curve" x="687" y="357" />
+      <point x="687" y="587" />
+      <point x="557" y="720" />
+      <point type="curve" x="382" y="720" />
+      <point x="204" y="720" />
+      <point x="74" y="582" />
+      <point type="curve" x="74" y="357" />
+      <point x="74" y="128" />
+      <point x="204" y="-8" />
+      <point type="curve" x="382" y="-8" />
+      <point x="557" y="-8" />
+      <point x="687" y="132" />
+    </contour>
+  </outline>
+</glyph>

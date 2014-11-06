@@ -1,0 +1,35 @@
+# Created: Thu Nov  6 17:29:08 2014
+# PS Name: Laila-Regular
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.bindu_n181_651 = [dvmEcandra dvAnusvara dvCandrabindu];
+@mGC_abvm.e_n100_651 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.i_0_723 = [dvReph.amI dvReph_Anusvara.amI];
+@mGC_blwm.r_n93_n1 = [dvmvR dvmvRR];
+@mGC_blwm.u_n93_n1 = [dvmU dvmU.aSmall];
+@mGC_top_149_507 = [circumflex caron];
+
+markClass @mGC_abvm.bindu_n181_651 <anchor -181 651> @MC_abvm.bindu;
+markClass @mGC_abvm.e_n100_651 <anchor -100 651> @MC_abvm.e;
+markClass @mGC_abvm.i_0_723 <anchor 0 723> @MC_abvm.i;
+markClass @mGC_blwm.r_n93_n1 <anchor -93 -1> @MC_blwm.r;
+markClass @mGC_blwm.u_n93_n1 <anchor -93 -1> @MC_blwm.u;
+markClass @mGC_top_149_507 <anchor 149 507> @MC_top;
+markClass acute <anchor 54 507> @MC_top;
+markClass breve <anchor 151 507> @MC_top;
+markClass cedilla <anchor 173 0> @MC_bottom;
+markClass commaaccent <anchor 77 0> @MC_bottom;
+markClass commaaccent.alt <anchor -2 700> @MC_topright;
+markClass dieresis <anchor 142 507> @MC_top;
+markClass dotaccent <anchor 69 507> @MC_top;
+markClass dvAnusvara.amI <anchor -1 723> @MC_abvm.i;
+markClass dvVirama <anchor -93 -1> @MC_blwm.virama;
+markClass dvmUU <anchor -93 -1> @MC_blwm.uu;
+markClass grave <anchor 184 507> @MC_top;
+markClass hungarumlaut <anchor 89 507> @MC_top;
+markClass macron <anchor 179 507> @MC_top;
+markClass ogonek <anchor 192 0> @MC_ogonek;
+markClass ring <anchor 116 507> @MC_top;
+markClass tilde <anchor 166 507> @MC_top;
+

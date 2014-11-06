@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvTH_YA">
+  <advance width="967" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="797" y="595" />
+      <point x="805" y="583" />
+      <point x="807" y="547" />
+      <point type="curve" x="807" y="513" />
+      <point x="807" y="431" />
+      <point x="806" y="354" />
+      <point type="curve" x="804" y="281" />
+      <point x="762" y="227" />
+      <point x="692" y="208" />
+      <point type="curve" x="641" y="208" />
+      <point x="547" y="208" />
+      <point x="480" y="265" />
+      <point type="curve" x="480" y="304" />
+      <point x="480" y="348" />
+      <point x="632" y="392" />
+      <point type="curve" x="632" y="490" />
+      <point x="632" y="531" />
+      <point x="614" y="568" />
+      <point type="curve" x="594" y="595" />
+    </contour>
+    <contour>
+      <point type="line" x="362" y="646" />
+      <point x="361" y="644" />
+      <point x="360" y="638" />
+      <point type="curve" x="360" y="633" />
+      <point x="360" y="617" />
+      <point x="368" y="595" />
+      <point type="curve" x="414" y="595" />
+      <point type="line" x="551" y="595" />
+      <point x="571" y="573" />
+      <point x="582" y="545" />
+      <point type="curve" x="582" y="516" />
+      <point x="582" y="443" />
+      <point x="481" y="403" />
+      <point type="curve" x="442" y="364" />
+      <point x="389" y="311" />
+      <point x="361" y="207" />
+      <point type="curve" x="222" y="207" />
+      <point x="158" y="207" />
+      <point x="102" y="252" />
+      <point type="curve" x="102" y="288" />
+      <point x="102" y="343" />
+      <point x="329" y="367" />
+      <point type="curve" x="329" y="497" />
+      <point x="329" y="571" />
+      <point x="259" y="646" />
+      <point type="curve" x="181" y="646" />
+      <point x="128" y="646" />
+      <point x="76" y="608" />
+      <point type="curve" x="76" y="542" />
+      <point x="76" y="494" />
+      <point x="109" y="448" />
+      <point type="curve" x="146" y="448" />
+      <point x="151" y="448" />
+      <point x="156" y="450" />
+      <point type="curve" x="158" y="452" />
+      <point x="140" y="468" />
+      <point x="128" y="492" />
+      <point type="curve" x="128" y="522" />
+      <point x="128" y="566" />
+      <point x="162" y="599" />
+      <point type="curve" x="207" y="599" />
+      <point x="250" y="599" />
+      <point x="279" y="566" />
+      <point type="curve" x="279" y="526" />
+      <point x="279" y="401" />
+      <point x="49" y="394" />
+      <point type="curve" x="49" y="316" />
+      <point x="49" y="254" />
+      <point x="140" y="159" />
+      <point type="curve" x="252" y="159" />
+      <point x="352" y="159" />
+      <point x="413" y="224" />
+      <point type="curve" x="447" y="280" />
+      <point x="481" y="221" />
+      <point x="564" y="160" />
+      <point type="curve" x="662" y="160" />
+      <point x="711" y="160" />
+      <point x="767" y="174" />
+      <point type="curve" x="810" y="209" />
+      <point x="804" y="158" />
+      <point x="803" y="106" />
+      <point type="curve" x="803" y="78" />
+      <point x="803" y="38" />
+      <point x="808" y="-5" />
+      <point type="curve" x="849" y="-5" />
+      <point x="853" y="-5" />
+      <point x="860" y="-4" />
+      <point type="curve" x="866" y="-1" />
+      <point x="858" y="11" />
+      <point x="856" y="46" />
+      <point type="curve" x="856" y="80" />
+      <point x="856" y="238" />
+      <point x="860" y="378" />
+      <point type="curve" x="860" y="515" />
+      <point x="860" y="546" />
+      <point x="857" y="582" />
+      <point type="curve" x="837" y="595" />
+      <point type="line" x="992" y="595" />
+      <point x="993" y="597" />
+      <point x="994" y="603" />
+      <point type="curve" x="994" y="608" />
+      <point x="994" y="624" />
+      <point x="986" y="646" />
+      <point type="curve" x="940" y="646" />
+    </contour>
+  </outline>
+</glyph>

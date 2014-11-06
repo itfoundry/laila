@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="tilde">
+  <advance width="385" />
+  <unicode hex="02DC" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="277" y="691" />
+      <point x="222" y="691" />
+      <point x="197" y="746" />
+      <point type="curve" x="120" y="746" />
+      <point x="67" y="746" />
+      <point x="16" y="702" />
+      <point type="curve" x="16" y="647" />
+      <point x="16" y="610" />
+      <point x="37" y="597" />
+      <point type="curve" x="54" y="596" />
+      <point x="55" y="633" />
+      <point x="81" y="653" />
+      <point type="curve" x="109" y="653" />
+      <point x="150" y="653" />
+      <point x="194" y="597" />
+      <point type="curve" x="258" y="597" />
+      <point x="317" y="597" />
+      <point x="369" y="640" />
+      <point type="curve" x="369" y="696" />
+      <point x="369" y="726" />
+      <point x="354" y="745" />
+      <point type="curve" x="331" y="748" />
+      <point x="329" y="710" />
+      <point x="304" y="691" />
+    </contour>
+  </outline>
+</glyph>

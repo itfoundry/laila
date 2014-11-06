@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="macron">
+  <advance width="358" />
+  <unicode hex="00AF" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="64" y="660" />
+      <point x="33" y="660" />
+      <point x="12" y="646" />
+      <point type="curve" x="12" y="622" />
+      <point x="12" y="615" />
+      <point x="14" y="610" />
+      <point type="curve" x="17" y="606" />
+      <point type="line" x="294" y="606" />
+      <point x="325" y="606" />
+      <point x="346" y="620" />
+      <point type="curve" x="346" y="644" />
+      <point x="346" y="652" />
+      <point x="344" y="657" />
+      <point type="curve" x="341" y="660" />
+    </contour>
+  </outline>
+</glyph>

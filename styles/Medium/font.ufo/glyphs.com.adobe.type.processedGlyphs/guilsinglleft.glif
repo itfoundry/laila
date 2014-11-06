@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="guilsinglleft">
+  <advance width="376" />
+  <unicode hex="2039" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="311" y="635" />
+      <point x="308" y="642" />
+      <point x="296" y="656" />
+      <point type="curve" x="280" y="656" />
+      <point x="230" y="656" />
+      <point x="66" y="480" />
+      <point type="curve" x="66" y="404" />
+      <point x="66" y="329" />
+      <point x="230" y="154" />
+      <point type="curve" x="280" y="154" />
+      <point x="296" y="154" />
+      <point x="308" y="168" />
+      <point type="curve" x="311" y="175" />
+      <point x="222" y="280" />
+      <point x="182" y="343" />
+      <point type="curve" x="182" y="404" />
+      <point x="182" y="467" />
+      <point x="222" y="528" />
+    </contour>
+  </outline>
+</glyph>

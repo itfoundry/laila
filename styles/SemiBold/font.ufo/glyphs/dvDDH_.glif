@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDDH" format="1">
+  <advance width="502"/>
+  <outline>
+    <component base="dvVirama" xOffset="396" yOffset="23"/>
+    <component base="dvDDHA"/>
+  </outline>
+</glyph>

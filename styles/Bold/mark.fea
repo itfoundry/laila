@@ -1,0 +1,91 @@
+# Created: Thu Nov  6 17:30:06 2014
+# PS Name: Laila-Bold
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_bottom {
+	pos base AE <anchor 1057 0> mark @MC_bottom;
+	pos base C <anchor 370 0> mark @MC_bottom;
+	pos base E <anchor 359 0> mark @MC_bottom;
+	pos base G <anchor 395 0> mark @MC_bottom;
+	pos base K <anchor 401 0> mark @MC_bottom;
+	pos base L <anchor 335 0> mark @MC_bottom;
+	pos base N <anchor 428 0> mark @MC_bottom;
+	pos base R <anchor 346 0> mark @MC_bottom;
+	pos base S <anchor 352 0> mark @MC_bottom;
+	pos base T <anchor 340 0> mark @MC_bottom;
+	pos base ae <anchor 859 0> mark @MC_bottom;
+	pos base c <anchor 262 0> mark @MC_bottom;
+	pos base e <anchor 268 0> mark @MC_bottom;
+	pos base f_t <anchor 619 0> mark @MC_bottom;
+	pos base k <anchor 319 0> mark @MC_bottom;
+	pos base l <anchor 156 0> mark @MC_bottom;
+	pos base n <anchor 337 0> mark @MC_bottom;
+	pos base r <anchor 168 0> mark @MC_bottom;
+	pos base s <anchor 263 0> mark @MC_bottom;
+	pos base t <anchor 241 0> mark @MC_bottom;
+} MARK_BASE_bottom;
+
+
+lookup MARK_BASE_ogonek {
+	pos base A <anchor 692 29> mark @MC_ogonek;
+	pos base AE <anchor 1343 12> mark @MC_ogonek;
+	pos base E <anchor 576 24> mark @MC_ogonek;
+	pos base I <anchor 280 10> mark @MC_ogonek;
+	pos base OE <anchor 1067 12> mark @MC_ogonek;
+	pos base U <anchor 456 3> mark @MC_ogonek;
+	pos base a <anchor 529 26> mark @MC_ogonek;
+	pos base ae <anchor 1072 12> mark @MC_ogonek;
+	pos base dotlessi <anchor 276 12> mark @MC_ogonek;
+	pos base e <anchor 371 20> mark @MC_ogonek;
+	pos base i <anchor 238 15> mark @MC_ogonek;
+	pos base u <anchor 572 12> mark @MC_ogonek;
+} MARK_BASE_ogonek;
+
+
+lookup MARK_BASE_top {
+	@bGC_I_top = [I L];
+	@bGC_R_top = [R Y];
+	pos base @bGC_I_top <anchor 188 736> mark @MC_top;
+	pos base @bGC_R_top <anchor 328 736> mark @MC_top;
+	pos base A <anchor 371 736> mark @MC_top;
+	pos base AE <anchor 1081 736> mark @MC_top;
+	pos base C <anchor 370 736> mark @MC_top;
+	pos base D <anchor 402 730> mark @MC_top;
+	pos base E <anchor 383 736> mark @MC_top;
+	pos base G <anchor 445 736> mark @MC_top;
+	pos base K <anchor 385 700> mark @MC_top;
+	pos base N <anchor 428 736> mark @MC_top;
+	pos base O <anchor 397 736> mark @MC_top;
+	pos base S <anchor 352 736> mark @MC_top;
+	pos base T <anchor 325 700> mark @MC_top;
+	pos base U <anchor 391 736> mark @MC_top;
+	pos base Z <anchor 338 736> mark @MC_top;
+	pos base a <anchor 296 523> mark @MC_top;
+	pos base ae <anchor 889 523> mark @MC_top;
+	pos base c <anchor 262 523> mark @MC_top;
+	pos base dotlessi <anchor 154 523> mark @MC_top;
+	pos base e <anchor 298 523> mark @MC_top;
+	pos base g <anchor 243 500> mark @MC_top;
+	pos base l <anchor 186 771> mark @MC_top;
+	pos base n <anchor 325 523> mark @MC_top;
+	pos base o <anchor 305 523> mark @MC_top;
+	pos base r <anchor 247 500> mark @MC_top;
+	pos base s <anchor 263 523> mark @MC_top;
+	pos base u <anchor 318 523> mark @MC_top;
+	pos base y <anchor 293 523> mark @MC_top;
+	pos base z <anchor 251 523> mark @MC_top;
+} MARK_BASE_top;
+
+
+lookup MARK_BASE_topright {
+	pos base L <anchor 239 700> mark @MC_topright;
+	pos base f_t <anchor 565 750> mark @MC_topright;
+	pos base l <anchor 292 700> mark @MC_topright;
+	pos base t <anchor 187 750> mark @MC_topright;
+} MARK_BASE_topright;
+
+
+

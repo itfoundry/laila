@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Delta.math">
+  <advance width="784" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="66" y="119" />
+      <point x="57" y="98" />
+      <point x="52" y="78" />
+      <point type="curve" x="52" y="61" />
+      <point x="52" y="33" />
+      <point x="65" y="11" />
+      <point type="curve" x="91" y="0" />
+      <point type="line" x="650" y="0" />
+      <point x="704" y="0" />
+      <point x="729" y="30" />
+      <point type="curve" x="729" y="61" />
+      <point x="729" y="78" />
+      <point x="725" y="98" />
+      <point type="curve" x="715" y="121" />
+      <point type="line" x="490" y="640" />
+      <point x="463" y="703" />
+      <point x="436" y="725" />
+      <point type="curve" x="391" y="725" />
+      <point x="345" y="725" />
+      <point x="319" y="703" />
+      <point type="curve" x="291" y="640" />
+    </contour>
+    <contour>
+      <point type="line" x="633" y="112" />
+      <point x="637" y="103" />
+      <point x="639" y="95" />
+      <point type="curve" x="639" y="89" />
+      <point x="639" y="75" />
+      <point x="628" y="70" />
+      <point type="curve" x="613" y="70" />
+      <point type="line" x="147" y="70" />
+      <point x="137" y="79" />
+      <point x="139" y="92" />
+      <point type="curve" x="147" y="112" />
+      <point type="line" x="362" y="615" />
+      <point x="371" y="636" />
+      <point x="378" y="645" />
+      <point type="curve" x="390" y="645" />
+      <point x="403" y="645" />
+      <point x="410" y="636" />
+      <point type="curve" x="419" y="615" />
+    </contour>
+  </outline>
+</glyph>

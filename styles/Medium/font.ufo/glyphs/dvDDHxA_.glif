@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDDHxA" format="1">
+  <advance width="490"/>
+  <unicode hex="095D"/>
+  <outline>
+    <contour>
+      <point x="288" y="-184" type="move" name="blwm.uu"/>
+    </contour>
+    <contour>
+      <point x="342" y="-215" type="move" name="blwm.r"/>
+    </contour>
+    <contour>
+      <point x="357" y="656" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="224" y="656" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="304" y="-134" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="318" y="-184" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvDDHA"/>
+    <component base="dvNukta" xOffset="538" yOffset="61"/>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="divisionslash">
+  <advance width="590" />
+  <unicode hex="2215" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="64" y="-58" />
+      <point x="54" y="-85" />
+      <point x="37" y="-122" />
+      <point type="curve" x="25" y="-132" />
+      <point x="48" y="-152" />
+      <point x="69" y="-155" />
+      <point type="curve" x="83" y="-155" />
+      <point x="139" y="-155" />
+      <point x="162" y="-91" />
+      <point type="curve" x="172" y="-64" />
+      <point type="line" x="527" y="959" />
+      <point x="535" y="984" />
+      <point x="549" y="1019" />
+      <point type="curve" x="565" y="1031" />
+      <point x="545" y="1048" />
+      <point x="521" y="1052" />
+      <point type="curve" x="505" y="1052" />
+      <point x="450" y="1052" />
+      <point x="427" y="989" />
+      <point type="curve" x="418" y="962" />
+    </contour>
+  </outline>
+</glyph>
