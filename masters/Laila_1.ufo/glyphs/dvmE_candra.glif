@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmEcandra" format="1">
+  <advance width="0"/>
+  <unicode hex="0945"/>
+  <outline>
+    <contour>
+      <point x="-220" y="669" type="move" name="_abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="-319" y="933" type="curve"/>
+      <point x="-340" y="922"/>
+      <point x="-347" y="905"/>
+      <point x="-347" y="889" type="curve" smooth="yes"/>
+      <point x="-347" y="827"/>
+      <point x="-241" y="747"/>
+      <point x="-111" y="747" type="curve" smooth="yes"/>
+      <point x="-43" y="747"/>
+      <point x="64" y="784"/>
+      <point x="64" y="865" type="curve" smooth="yes"/>
+      <point x="64" y="907"/>
+      <point x="27" y="938"/>
+      <point x="-6" y="940" type="curve"/>
+      <point x="-36" y="877"/>
+      <point x="-98" y="850"/>
+      <point x="-157" y="850" type="curve" smooth="yes"/>
+      <point x="-220" y="850"/>
+      <point x="-278" y="877"/>
+    </contour>
+  </outline>
+</glyph>

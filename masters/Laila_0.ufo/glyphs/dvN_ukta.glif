@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNukta" format="1">
+  <advance width="0"/>
+  <unicode hex="093C"/>
+  <outline>
+    <contour>
+      <point x="-358" y="-98" type="curve" smooth="yes"/>
+      <point x="-358" y="-124"/>
+      <point x="-335" y="-147"/>
+      <point x="-309" y="-147" type="curve" smooth="yes"/>
+      <point x="-287" y="-147"/>
+      <point x="-273" y="-131"/>
+      <point x="-273" y="-111" type="curve" smooth="yes"/>
+      <point x="-273" y="-85"/>
+      <point x="-298" y="-62"/>
+      <point x="-322" y="-62" type="curve" smooth="yes"/>
+      <point x="-344" y="-62"/>
+      <point x="-358" y="-77"/>
+    </contour>
+  </outline>
+</glyph>

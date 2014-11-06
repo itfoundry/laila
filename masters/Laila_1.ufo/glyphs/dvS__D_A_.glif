@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_DA" format="1">
+  <advance width="929"/>
+  <outline>
+    <contour>
+      <point x="803" y="-84" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="842" y="669" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="788" y="-84" type="move" name="blwm.uu"/>
+    </contour>
+    <contour>
+      <point x="658" y="669" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="834" y="-130" type="move" name="blwm.virama"/>
+    </contour>
+    <component base="dvS"/>
+    <component base="dvDA" xOffset="436"/>
+  </outline>
+</glyph>
