@@ -5,7 +5,7 @@ languagesystem dev2 dflt;
 languagesystem deva dflt;
 
 table head {
-  FontRevision 1.000;
+  FontRevision 1.410;
 } head;
 
 include (../../family_classes.fea);
@@ -893,6 +893,8 @@ feature blws {
   sub dvHA dvmU  by dvHA_mU;
   sub dvHA dvmUU by dvHA_mUU;
 
+  sub @mU_aSmall_BASES dvmU' by dvmU.aSmall;
+
   sub dvDA  dvmvR by dvDA_mvR;
   sub dvSHA dvmvR by dvSHA_mvR;
   sub dvHA  dvmvR by dvHA_mvR;
@@ -1001,4 +1003,5 @@ feature blwm {
 feature liga {
   sub f i by fi;
   sub f l by fl;
+  sub f t by f_t;
 } liga;

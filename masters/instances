@@ -5,8 +5,8 @@
 
 #KEYS:FamilyName	FontName	FullName	Weight	Coords	IsBold
 
-Some Devanagari	SomeDevanagari-Light	Some Devanagari Light	Light	(0)	0
-Some Devanagari	SomeDevanagari-Regular	Some Devanagari	Regular	(210)	0
-Some Devanagari	SomeDevanagari-Medium	Some Devanagari Medium	Medium	(440)	0
-Some Devanagari	SomeDevanagari-SemiBold	Some Devanagari SemiBold	SemiBold	(700)	0
-Some Devanagari	SomeDevanagari-Bold	Some Devanagari Bold	Bold	(1000)	0
+Laila	Laila-Light	Laila Light	Light	(0)	0
+Laila	Laila-Regular	Laila	Regular	(210)	0
+Laila	Laila-Medium	Laila Medium	Medium	(440)	0
+Laila	Laila-SemiBold	Laila SemiBold	SemiBold	(700)	0
+Laila	Laila-Bold	Laila Bold	Bold	(1000)	0
