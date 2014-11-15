@@ -997,6 +997,9 @@
 		<string>f_t</string>
 		<string>nonbreakingspace</string>
 		<string>apostrophemod</string>
+		<string>turkishlira</string>
+		<string>Dcroat</string>
+		<string>rupee</string>
 	</array>
 </dict>
 </plist>

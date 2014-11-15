@@ -42,6 +42,8 @@
 	<string>D_.glif</string>
 	<key>Dcaron</key>
 	<string>D_caron.glif</string>
+	<key>Dcroat</key>
+	<string>D_croat.glif</string>
 	<key>Delta.math</key>
 	<string>D_elta_math.glif</string>
 	<key>E</key>
@@ -1874,6 +1876,8 @@
 	<string>ring.glif</string>
 	<key>ruble</key>
 	<string>ruble.glif</string>
+	<key>rupee</key>
+	<string>rupee.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sacute</key>
@@ -1922,6 +1926,8 @@
 	<string>tilde.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>turkishlira</key>
+	<string>turkishlira.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>twosuperior</key>
