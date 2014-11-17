@@ -1,4 +1,4 @@
-# Created: Thu Nov  6 17:29:08 2014
+# Created: Mon Nov 17 20:30:20 2014
 # PS Name: Laila-Regular
 # MM Inst: None
 # exported from noApp
@@ -46,12 +46,12 @@ lookup MARK_BASE_ogonek {
 
 
 lookup MARK_BASE_top {
-	@bGC_E_top = [E S];
 	@bGC_I_top = [I L];
 	@bGC_N_top = [N O];
-	pos base @bGC_E_top <anchor 323 717> mark @MC_top;
+	@bGC_S_top = [S E];
 	pos base @bGC_I_top <anchor 139 717> mark @MC_top;
 	pos base @bGC_N_top <anchor 385 717> mark @MC_top;
+	pos base @bGC_S_top <anchor 323 717> mark @MC_top;
 	pos base A <anchor 330 717> mark @MC_top;
 	pos base AE <anchor 684 717> mark @MC_top;
 	pos base C <anchor 340 717> mark @MC_top;

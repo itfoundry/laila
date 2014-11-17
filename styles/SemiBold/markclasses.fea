@@ -1,4 +1,4 @@
-# Created: Thu Nov  6 17:29:47 2014
+# Created: Mon Nov 17 20:31:01 2014
 # PS Name: Laila-SemiBold
 # MM Inst: None
 # exported from noApp
@@ -7,6 +7,7 @@
 @mGC_abvm.e_n83_662 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_738 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
 @mGC_blwm.r_n74_0 = [dvmvR dvmvRR];
+@mGC_blwm.u_n73_0 = [dvmvL dvmvLL];
 @mGC_blwm.u_n74_0 = [dvmU dvmU.aSmall];
 @mGC_top_176_517 = [dieresis circumflex caron];
 @mGC_top_184_517 = [grave tilde];
@@ -15,6 +16,7 @@ markClass @mGC_abvm.bindu_n205_662 <anchor -205 662> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n83_662 <anchor -83 662> @MC_abvm.e;
 markClass @mGC_abvm.i_0_738 <anchor 0 738> @MC_abvm.i;
 markClass @mGC_blwm.r_n74_0 <anchor -74 0> @MC_blwm.r;
+markClass @mGC_blwm.u_n73_0 <anchor -73 0> @MC_blwm.u;
 markClass @mGC_blwm.u_n74_0 <anchor -74 0> @MC_blwm.u;
 markClass @mGC_top_176_517 <anchor 176 517> @MC_top;
 markClass @mGC_top_184_517 <anchor 184 517> @MC_top;

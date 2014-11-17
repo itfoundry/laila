@@ -1,4 +1,4 @@
-# Created: Thu Nov  6 17:28:49 2014
+# Created: Mon Nov 17 20:30:00 2014
 # PS Name: Laila-Light
 # MM Inst: None
 # exported from noApp
@@ -7,7 +7,7 @@
 @mGC_abvm.e_n107_646 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_716 = [dvReph.amI dvReph_Anusvara.amI];
 @mGC_blwm.r_n101_n1 = [dvmvR dvmvRR];
-@mGC_blwm.u_n101_n1 = [dvmU dvmU.aSmall];
+@mGC_blwm.u_n101_n1 = [dvmU dvmvL dvmvLL dvmU.aSmall];
 @mGC_top_137_503 = [circumflex caron breve];
 
 markClass @mGC_abvm.bindu_n170_646 <anchor -170 646> @MC_abvm.bindu;

@@ -3,6 +3,9 @@
   <advance width="1078"/>
   <unicode hex="0914"/>
   <outline>
+    <contour>
+      <point x="1072" y="670" type="move" name="abvm.bindu"/>
+    </contour>
     <component base="dvmAI" xOffset="1095"/>
     <component base="dvAA"/>
   </outline>

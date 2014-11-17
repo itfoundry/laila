@@ -33,6 +33,8 @@
       <ClassDef glyph="dvmU" class="3"/>
       <ClassDef glyph="dvmU.aSmall" class="3"/>
       <ClassDef glyph="dvmUU" class="3"/>
+      <ClassDef glyph="dvmvL" class="3"/>
+      <ClassDef glyph="dvmvLL" class="3"/>
       <ClassDef glyph="dvmvR" class="3"/>
       <ClassDef glyph="dvmvRR" class="3"/>
       <ClassDef glyph="grave" class="3"/>

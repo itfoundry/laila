@@ -209,6 +209,7 @@
       <map code="0x10d" name="ccaron"/><!-- LATIN SMALL LETTER C WITH CARON -->
       <map code="0x10e" name="Dcaron"/><!-- LATIN CAPITAL LETTER D WITH CARON -->
       <map code="0x10f" name="dcaron"/><!-- LATIN SMALL LETTER D WITH CARON -->
+      <map code="0x110" name="Dcroat"/><!-- LATIN CAPITAL LETTER D WITH STROKE -->
       <map code="0x111" name="dcroat"/><!-- LATIN SMALL LETTER D WITH STROKE -->
       <map code="0x112" name="Emacron"/><!-- LATIN CAPITAL LETTER E WITH MACRON -->
       <map code="0x113" name="emacron"/><!-- LATIN SMALL LETTER E WITH MACRON -->
@@ -375,6 +376,8 @@
       <map code="0x95e" name="dvPHxA"/><!-- DEVANAGARI LETTER FA -->
       <map code="0x960" name="dvvRR"/><!-- DEVANAGARI LETTER VOCALIC RR -->
       <map code="0x961" name="dvvLL"/><!-- DEVANAGARI LETTER VOCALIC LL -->
+      <map code="0x962" name="dvmvL"/><!-- DEVANAGARI VOWEL SIGN VOCALIC L -->
+      <map code="0x963" name="dvmvLL"/><!-- DEVANAGARI VOWEL SIGN VOCALIC LL -->
       <map code="0x964" name="danda"/><!-- DEVANAGARI DANDA -->
       <map code="0x965" name="doubledanda"/><!-- DEVANAGARI DOUBLE DANDA -->
       <map code="0x966" name="dvZero"/><!-- DEVANAGARI DIGIT ZERO -->
@@ -408,8 +411,10 @@
       <map code="0x2039" name="guilsinglleft"/><!-- SINGLE LEFT-POINTING ANGLE QUOTATION MARK -->
       <map code="0x203a" name="guilsinglright"/><!-- SINGLE RIGHT-POINTING ANGLE QUOTATION MARK -->
       <map code="0x2044" name="fraction"/><!-- FRACTION SLASH -->
+      <map code="0x20a8" name="rupee"/><!-- RUPEE SIGN -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
       <map code="0x20b9" name="indianrupee"/><!-- ???? -->
+      <map code="0x20ba" name="uni20BA"/><!-- ???? -->
       <map code="0x20bd" name="uni20BD"/><!-- ???? -->
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
@@ -890,6 +895,7 @@
       <map code="0x10d" name="ccaron"/><!-- LATIN SMALL LETTER C WITH CARON -->
       <map code="0x10e" name="Dcaron"/><!-- LATIN CAPITAL LETTER D WITH CARON -->
       <map code="0x10f" name="dcaron"/><!-- LATIN SMALL LETTER D WITH CARON -->
+      <map code="0x110" name="Dcroat"/><!-- LATIN CAPITAL LETTER D WITH STROKE -->
       <map code="0x111" name="dcroat"/><!-- LATIN SMALL LETTER D WITH STROKE -->
       <map code="0x112" name="Emacron"/><!-- LATIN CAPITAL LETTER E WITH MACRON -->
       <map code="0x113" name="emacron"/><!-- LATIN SMALL LETTER E WITH MACRON -->
@@ -1056,6 +1062,8 @@
       <map code="0x95e" name="dvPHxA"/><!-- DEVANAGARI LETTER FA -->
       <map code="0x960" name="dvvRR"/><!-- DEVANAGARI LETTER VOCALIC RR -->
       <map code="0x961" name="dvvLL"/><!-- DEVANAGARI LETTER VOCALIC LL -->
+      <map code="0x962" name="dvmvL"/><!-- DEVANAGARI VOWEL SIGN VOCALIC L -->
+      <map code="0x963" name="dvmvLL"/><!-- DEVANAGARI VOWEL SIGN VOCALIC LL -->
       <map code="0x964" name="danda"/><!-- DEVANAGARI DANDA -->
       <map code="0x965" name="doubledanda"/><!-- DEVANAGARI DOUBLE DANDA -->
       <map code="0x966" name="dvZero"/><!-- DEVANAGARI DIGIT ZERO -->
@@ -1089,8 +1097,10 @@
       <map code="0x2039" name="guilsinglleft"/><!-- SINGLE LEFT-POINTING ANGLE QUOTATION MARK -->
       <map code="0x203a" name="guilsinglright"/><!-- SINGLE RIGHT-POINTING ANGLE QUOTATION MARK -->
       <map code="0x2044" name="fraction"/><!-- FRACTION SLASH -->
+      <map code="0x20a8" name="rupee"/><!-- RUPEE SIGN -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
       <map code="0x20b9" name="indianrupee"/><!-- ???? -->
+      <map code="0x20ba" name="uni20BA"/><!-- ???? -->
       <map code="0x20bd" name="uni20BD"/><!-- ???? -->
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->

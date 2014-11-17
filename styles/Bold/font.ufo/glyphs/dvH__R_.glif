@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvH_R" format="1">
+  <advance width="609"/>
+  <outline>
+    <contour>
+      <point x="252" y="669" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="506" y="669" type="move" name="abvm.e"/>
+    </contour>
+    <component base="dvH_RA"/>
+    <component base="dvVirama" xOffset="423" yOffset="-210"/>
+  </outline>
+</glyph>

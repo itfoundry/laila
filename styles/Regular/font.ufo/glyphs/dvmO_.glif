@@ -4,6 +4,6 @@
   <unicode hex="094B"/>
   <outline>
     <component base="dvmE" xOffset="273"/>
-    <component base="dvmAA" xOffset="-1"/>
+    <component base="dvmAA"/>
   </outline>
 </glyph>

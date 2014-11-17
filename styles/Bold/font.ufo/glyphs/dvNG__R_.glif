@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNG_R" format="1">
+  <advance width="661"/>
+  <outline>
+    <contour>
+      <point x="248" y="669" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="456" y="669" type="move" name="abvm.e"/>
+    </contour>
+    <component base="dvVirama" xOffset="462" yOffset="-166"/>
+    <component base="dvNG_RA"/>
+  </outline>
+</glyph>

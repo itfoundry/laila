@@ -7,18 +7,18 @@
       <point x="-192" y="656" type="move" name="_abvm.bindu"/>
     </contour>
     <contour>
-      <point x="-131" y="754" type="curve" smooth="yes"/>
-      <point x="-100" y="754"/>
-      <point x="-78" y="777"/>
-      <point x="-78" y="807" type="curve" smooth="yes"/>
-      <point x="-78" y="845"/>
-      <point x="-115" y="880"/>
-      <point x="-152" y="880" type="curve" smooth="yes"/>
-      <point x="-183" y="880"/>
-      <point x="-205" y="858"/>
-      <point x="-205" y="827" type="curve" smooth="yes"/>
-      <point x="-205" y="789"/>
-      <point x="-170" y="754"/>
+      <point x="-136" y="754" type="curve" smooth="yes"/>
+      <point x="-104" y="754"/>
+      <point x="-83" y="777"/>
+      <point x="-83" y="807" type="curve" smooth="yes"/>
+      <point x="-83" y="845"/>
+      <point x="-119" y="880"/>
+      <point x="-156" y="880" type="curve" smooth="yes"/>
+      <point x="-188" y="880"/>
+      <point x="-209" y="858"/>
+      <point x="-209" y="827" type="curve" smooth="yes"/>
+      <point x="-209" y="789"/>
+      <point x="-174" y="754"/>
     </contour>
   </outline>
 </glyph>

@@ -17,6 +17,7 @@
   dvTT_TTHA
   dvTT_VA
   dvTTH_TTHA
+  dvTTH_VA
 ];
 
 @mI_BASES_03 = [
@@ -35,6 +36,7 @@
   dvDD_DDHA
   dvDD_VA
   dvDDH_DDHA
+  dvDDH_VA
   dvD_DA
   dvD_NA
 ];
@@ -72,6 +74,7 @@
   dvP_RA
   dvB_RA
   dvV_RA
+  dvSS_RA
   dvH_RA
   dvGx_RA
   dvK_TA
@@ -130,6 +133,7 @@
   dvLLA
   dvJ_NYA
   dvSH_RA
+  dvLL_RA
   dvD_BHA
   dvSH_CA
   dvSH_NA
@@ -146,6 +150,7 @@
   dvJxA
   dvJ_RA
   dvNY_RA
+  dvL_RA
   dvS_RA
   dvJx_RA
   dvJ_NA

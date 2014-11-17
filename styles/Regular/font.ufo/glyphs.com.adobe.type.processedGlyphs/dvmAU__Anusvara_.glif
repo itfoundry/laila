@@ -3,18 +3,18 @@
   <advance width="272" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="255" y="740" />
-      <point x="283" y="740" />
-      <point x="302" y="760" />
-      <point type="curve" x="302" y="787" />
-      <point x="302" y="821" />
-      <point x="269" y="852" />
-      <point type="curve" x="237" y="852" />
-      <point x="209" y="852" />
-      <point x="189" y="832" />
-      <point type="curve" x="189" y="805" />
-      <point x="189" y="771" />
-      <point x="221" y="740" />
+      <point name="hintSet0000" type="curve" x="253" y="740" />
+      <point x="281" y="740" />
+      <point x="300" y="760" />
+      <point type="curve" x="300" y="787" />
+      <point x="300" y="821" />
+      <point x="267" y="852" />
+      <point type="curve" x="235" y="852" />
+      <point x="206" y="852" />
+      <point x="187" y="832" />
+      <point type="curve" x="187" y="805" />
+      <point x="187" y="771" />
+      <point x="219" y="740" />
     </contour>
     <contour>
       <point type="line" x="154" y="651" />

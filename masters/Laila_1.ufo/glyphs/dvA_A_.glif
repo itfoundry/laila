@@ -4,6 +4,9 @@
   <unicode hex="0906"/>
   <outline>
     <contour>
+      <point x="704" y="669" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
       <point x="589" y="261" type="line"/>
       <point x="581" y="219"/>
       <point x="576" y="175"/>

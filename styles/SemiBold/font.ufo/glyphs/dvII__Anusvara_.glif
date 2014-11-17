@@ -3,6 +3,6 @@
   <advance width="487"/>
   <outline>
     <component base="dvI"/>
-    <component base="dvReph_Anusvara" xOffset="360" yOffset="1"/>
+    <component base="dvReph_Anusvara" xOffset="408" yOffset="1"/>
   </outline>
 </glyph>

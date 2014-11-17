@@ -4,28 +4,28 @@
   <unicode hex="0908" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="271" y="651" />
-      <point x="238" y="675" />
-      <point x="203" y="719" />
-      <point type="curve" x="203" y="773" />
-      <point x="203" y="823" />
-      <point x="233" y="847" />
-      <point type="curve" x="263" y="847" />
-      <point x="308" y="847" />
-      <point x="325" y="806" />
-      <point type="curve" x="330" y="769" />
-      <point x="352" y="769" />
-      <point x="358" y="787" />
-      <point type="curve" x="358" y="804" />
-      <point x="358" y="849" />
-      <point x="319" y="912" />
-      <point type="curve" x="248" y="912" />
-      <point x="196" y="912" />
-      <point x="147" y="869" />
-      <point type="curve" x="147" y="796" />
-      <point x="147" y="734" />
-      <point x="184" y="678" />
-      <point type="curve" x="218" y="651" />
+      <point name="hintSet0000" type="line" x="287" y="651" />
+      <point x="254" y="675" />
+      <point x="219" y="719" />
+      <point type="curve" x="219" y="773" />
+      <point x="219" y="823" />
+      <point x="249" y="847" />
+      <point type="curve" x="279" y="847" />
+      <point x="324" y="847" />
+      <point x="341" y="806" />
+      <point type="curve" x="346" y="769" />
+      <point x="368" y="769" />
+      <point x="374" y="787" />
+      <point type="curve" x="374" y="804" />
+      <point x="374" y="849" />
+      <point x="335" y="912" />
+      <point type="curve" x="264" y="912" />
+      <point x="212" y="912" />
+      <point x="163" y="869" />
+      <point type="curve" x="163" y="796" />
+      <point x="163" y="734" />
+      <point x="200" y="678" />
+      <point type="curve" x="234" y="651" />
       <point type="line" x="-46" y="651" />
       <point x="-47" y="648" />
       <point x="-48" y="641" />

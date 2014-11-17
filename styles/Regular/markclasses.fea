@@ -1,4 +1,4 @@
-# Created: Thu Nov  6 17:29:08 2014
+# Created: Mon Nov 17 20:30:20 2014
 # PS Name: Laila-Regular
 # MM Inst: None
 # exported from noApp
@@ -7,7 +7,7 @@
 @mGC_abvm.e_n100_651 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_723 = [dvReph.amI dvReph_Anusvara.amI];
 @mGC_blwm.r_n93_n1 = [dvmvR dvmvRR];
-@mGC_blwm.u_n93_n1 = [dvmU dvmU.aSmall];
+@mGC_blwm.u_n93_n1 = [dvmU dvmvL dvmvLL dvmU.aSmall];
 @mGC_top_149_507 = [circumflex caron];
 
 markClass @mGC_abvm.bindu_n181_651 <anchor -181 651> @MC_abvm.bindu;

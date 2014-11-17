@@ -22,6 +22,7 @@
     <mtx name="Ccedilla" width="695" lsb="64"/>
     <mtx name="D" width="745" lsb="81"/>
     <mtx name="Dcaron" width="745" lsb="81"/>
+    <mtx name="Dcroat" width="745" lsb="13"/>
     <mtx name="E" width="662" lsb="84"/>
     <mtx name="Eacute" width="662" lsb="84"/>
     <mtx name="Ecaron" width="662" lsb="84"/>
@@ -147,7 +148,7 @@
     <mtx name="danda" width="483" lsb="231"/>
     <mtx name="dcaron" width="702" lsb="42"/>
     <mtx name="dcroat" width="581" lsb="42"/>
-    <mtx name="degree" width="636" lsb="67"/>
+    <mtx name="degree" width="456" lsb="68"/>
     <mtx name="dieresis" width="315" lsb="12"/>
     <mtx name="divide" width="640" lsb="43"/>
     <mtx name="dollar" width="634" lsb="71"/>
@@ -161,8 +162,8 @@
     <mtx name="dvAU" width="1011" lsb="16"/>
     <mtx name="dvAbbreviationsign" width="397" lsb="52"/>
     <mtx name="dvAcandra" width="736" lsb="16"/>
-    <mtx name="dvAnusvara" width="0" lsb="-205"/>
-    <mtx name="dvAnusvara.amI" width="0" lsb="5"/>
+    <mtx name="dvAnusvara" width="0" lsb="-209"/>
+    <mtx name="dvAnusvara.amI" width="0" lsb="1"/>
     <mtx name="dvAvagraha" width="538" lsb="74"/>
     <mtx name="dvB" width="355" lsb="-55"/>
     <mtx name="dvBA" width="561" lsb="-55"/>
@@ -199,6 +200,7 @@
     <mtx name="dvCA" width="627" lsb="-74"/>
     <mtx name="dvCH" width="668" lsb="-52"/>
     <mtx name="dvCHA" width="669" lsb="-52"/>
+    <mtx name="dvCH_R" width="668" lsb="-52"/>
     <mtx name="dvCH_RA" width="668" lsb="-52"/>
     <mtx name="dvCH_R_YA" width="1245" lsb="-52"/>
     <mtx name="dvCH_YA" width="1245" lsb="-52"/>
@@ -221,6 +223,7 @@
     <mtx name="dvDDH_DDHA" width="502" lsb="-58"/>
     <mtx name="dvDDH_R" width="490" lsb="-61"/>
     <mtx name="dvDDH_RA" width="490" lsb="-61"/>
+    <mtx name="dvDDH_VA" width="490" lsb="-61"/>
     <mtx name="dvDDH_YA" width="1089" lsb="-51"/>
     <mtx name="dvDDHxA" width="490" lsb="-61"/>
     <mtx name="dvDD_DDA" width="505" lsb="-53"/>
@@ -295,7 +298,7 @@
     <mtx name="dvGxA" width="580" lsb="-58"/>
     <mtx name="dvGx_R" width="346" lsb="-58"/>
     <mtx name="dvGx_RA" width="580" lsb="-58"/>
-    <mtx name="dvH" width="470" lsb="-53"/>
+    <mtx name="dvH" width="489" lsb="-53"/>
     <mtx name="dvHA" width="489" lsb="-53"/>
     <mtx name="dvHA_mU" width="489" lsb="-53"/>
     <mtx name="dvHA_mUU" width="489" lsb="-53"/>
@@ -304,6 +307,7 @@
     <mtx name="dvH_MA" width="769" lsb="-53"/>
     <mtx name="dvH_NA" width="574" lsb="-53"/>
     <mtx name="dvH_NNA" width="653" lsb="-53"/>
+    <mtx name="dvH_R" width="574" lsb="-53"/>
     <mtx name="dvH_RA" width="574" lsb="-53"/>
     <mtx name="dvH_VA" width="577" lsb="-53"/>
     <mtx name="dvH_YA" width="742" lsb="-53"/>
@@ -418,6 +422,8 @@
     <mtx name="dvLA" width="730" lsb="-53"/>
     <mtx name="dvLL" width="705" lsb="-55"/>
     <mtx name="dvLLA" width="705" lsb="-55"/>
+    <mtx name="dvLL_R" width="705" lsb="-55"/>
+    <mtx name="dvLL_RA" width="705" lsb="-55"/>
     <mtx name="dvLL_YA" width="1142" lsb="-55"/>
     <mtx name="dvL_BA" width="1058" lsb="-53"/>
     <mtx name="dvL_BHA" width="1091" lsb="-53"/>
@@ -437,6 +443,8 @@
     <mtx name="dvL_MA" width="1089" lsb="-53"/>
     <mtx name="dvL_PA" width="1022" lsb="-53"/>
     <mtx name="dvL_PHA" width="1242" lsb="-53"/>
+    <mtx name="dvL_R" width="494" lsb="-53"/>
+    <mtx name="dvL_RA" width="730" lsb="-53"/>
     <mtx name="dvL_SA" width="1200" lsb="-53"/>
     <mtx name="dvL_TA" width="1026" lsb="-53"/>
     <mtx name="dvL_THA" width="1118" lsb="-53"/>
@@ -473,6 +481,7 @@
     <mtx name="dvNA" width="563" lsb="-53"/>
     <mtx name="dvNG" width="579" lsb="-53"/>
     <mtx name="dvNGA" width="579" lsb="-53"/>
+    <mtx name="dvNG_R" width="579" lsb="-53"/>
     <mtx name="dvNG_RA" width="583" lsb="-53"/>
     <mtx name="dvNN" width="484" lsb="-58"/>
     <mtx name="dvNNA" width="740" lsb="-58"/>
@@ -599,6 +608,7 @@
     <mtx name="dvSH_LA" width="1165" lsb="32"/>
     <mtx name="dvSH_MA" width="1025" lsb="32"/>
     <mtx name="dvSH_NA" width="692" lsb="32"/>
+    <mtx name="dvSH_R" width="504" lsb="32"/>
     <mtx name="dvSH_RA" width="691" lsb="32"/>
     <mtx name="dvSH_SHA" width="1142" lsb="32"/>
     <mtx name="dvSH_TA" width="964" lsb="32"/>
@@ -616,6 +626,8 @@
     <mtx name="dvSS_PA" width="874" lsb="-55"/>
     <mtx name="dvSS_PHA" width="1094" lsb="-55"/>
     <mtx name="dvSS_P_RA" width="893" lsb="-55"/>
+    <mtx name="dvSS_R" width="358" lsb="-55"/>
+    <mtx name="dvSS_RA" width="566" lsb="-55"/>
     <mtx name="dvSS_SSA" width="884" lsb="-55"/>
     <mtx name="dvSS_TTA" width="598" lsb="-58"/>
     <mtx name="dvSS_TTHA" width="606" lsb="-58"/>
@@ -670,6 +682,7 @@
     <mtx name="dvTTH_R" width="496" lsb="-53"/>
     <mtx name="dvTTH_RA" width="496" lsb="-53"/>
     <mtx name="dvTTH_TTHA" width="500" lsb="-53"/>
+    <mtx name="dvTTH_VA" width="496" lsb="-53"/>
     <mtx name="dvTTH_YA" width="1091" lsb="-53"/>
     <mtx name="dvTT_R" width="456" lsb="-53"/>
     <mtx name="dvTT_RA" width="456" lsb="-53"/>
@@ -742,6 +755,7 @@
     <mtx name="dvmE_Reph" width="0" lsb="-432"/>
     <mtx name="dvmE_Reph_Anusvara" width="0" lsb="-432"/>
     <mtx name="dvmEcandra" width="0" lsb="-341"/>
+    <mtx name="dvmEcandra_Anusvara" width="0" lsb="-341"/>
     <mtx name="dvmI" width="275" lsb="-58"/>
     <mtx name="dvmI.a01" width="275" lsb="-58"/>
     <mtx name="dvmI.a02" width="276" lsb="-58"/>
@@ -787,16 +801,19 @@
     <mtx name="dvmO_Anusvara" width="275" lsb="-156"/>
     <mtx name="dvmO_Reph" width="275" lsb="-156"/>
     <mtx name="dvmO_Reph_Anusvara" width="275" lsb="-156"/>
-    <mtx name="dvmOcandra" width="275" lsb="-77"/>
+    <mtx name="dvmOcandra" width="275" lsb="-69"/>
+    <mtx name="dvmOcandra_Anusvara" width="275" lsb="-69"/>
     <mtx name="dvmU" width="0" lsb="-416"/>
     <mtx name="dvmU.aSmall" width="0" lsb="-415"/>
     <mtx name="dvmUU" width="0" lsb="-277"/>
+    <mtx name="dvmvL" width="0" lsb="-341"/>
+    <mtx name="dvmvLL" width="0" lsb="-341"/>
     <mtx name="dvmvR" width="0" lsb="-310"/>
     <mtx name="dvmvRR" width="0" lsb="-290"/>
     <mtx name="dvvL" width="716" lsb="-58"/>
     <mtx name="dvvLL" width="716" lsb="-58"/>
-    <mtx name="dvvR" width="715" lsb="-58"/>
-    <mtx name="dvvRR" width="777" lsb="-58"/>
+    <mtx name="dvvR" width="790" lsb="-58"/>
+    <mtx name="dvvRR" width="790" lsb="-58"/>
     <mtx name="e" width="502" lsb="49"/>
     <mtx name="eacute" width="502" lsb="49"/>
     <mtx name="ecaron" width="502" lsb="49"/>
@@ -902,9 +919,9 @@
     <mtx name="question" width="528" lsb="59"/>
     <mtx name="questiondown" width="526" lsb="74"/>
     <mtx name="quotedbl" width="374" lsb="50"/>
-    <mtx name="quotedblbase" width="406" lsb="111"/>
+    <mtx name="quotedblbase" width="406" lsb="20"/>
     <mtx name="quotedblleft" width="406" lsb="29"/>
-    <mtx name="quotedblright" width="406" lsb="111"/>
+    <mtx name="quotedblright" width="406" lsb="20"/>
     <mtx name="quoteleft" width="209" lsb="29"/>
     <mtx name="quoteright" width="209" lsb="20"/>
     <mtx name="quotesinglbase" width="209" lsb="20"/>
@@ -915,6 +932,7 @@
     <mtx name="rcaron" width="442" lsb="60"/>
     <mtx name="registered" width="676" lsb="67"/>
     <mtx name="ring" width="237" lsb="12"/>
+    <mtx name="rupee" width="1153" lsb="69"/>
     <mtx name="s" width="509" lsb="49"/>
     <mtx name="sacute" width="509" lsb="49"/>
     <mtx name="scaron" width="509" lsb="49"/>
@@ -966,6 +984,7 @@
     <mtx name="uni021A" width="578" lsb="17"/>
     <mtx name="uni021B" width="408" lsb="11"/>
     <mtx name="uni02C9" width="377" lsb="12"/>
+    <mtx name="uni20BA" width="535" lsb="5"/>
     <mtx name="uni20BD" width="673" lsb="54"/>
     <mtx name="uni2113" width="280" lsb="60"/>
     <mtx name="uni2126" width="758" lsb="60"/>

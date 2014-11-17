@@ -1,4 +1,4 @@
-# Created: Thu Nov  6 17:29:27 2014
+# Created: Mon Nov 17 20:30:41 2014
 # PS Name: Laila-Medium
 # MM Inst: None
 # exported from noApp
@@ -7,6 +7,7 @@
 @mGC_abvm.e_n92_656 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_730 = [dvReph.amI dvReph_Anusvara.amI];
 @mGC_blwm.r_n84_n1 = [dvmvR dvmvRR];
+@mGC_blwm.u_n83_n1 = [dvmvL dvmvLL];
 @mGC_blwm.u_n84_n1 = [dvmU dvmU.aSmall];
 @mGC_top_161_512 = [circumflex caron];
 
@@ -14,6 +15,7 @@ markClass @mGC_abvm.bindu_n192_656 <anchor -192 656> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n92_656 <anchor -92 656> @MC_abvm.e;
 markClass @mGC_abvm.i_0_730 <anchor 0 730> @MC_abvm.i;
 markClass @mGC_blwm.r_n84_n1 <anchor -84 -1> @MC_blwm.r;
+markClass @mGC_blwm.u_n83_n1 <anchor -83 -1> @MC_blwm.u;
 markClass @mGC_blwm.u_n84_n1 <anchor -84 -1> @MC_blwm.u;
 markClass @mGC_top_161_512 <anchor 161 512> @MC_top;
 markClass acute <anchor 66 512> @MC_top;
