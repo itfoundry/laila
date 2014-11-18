@@ -4,7 +4,17 @@
   <unicode hex="00B1" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="169" y="517" />
+      <point name="hintSet0000" type="line" x="403" y="708" />
+      <point x="398" y="710" />
+      <point x="388" y="714" />
+      <point type="curve" x="379" y="714" />
+      <point x="319" y="714" />
+      <point x="314" y="656" />
+      <point type="curve" x="314" y="626" />
+      <point x="316" y="598" />
+      <point x="317" y="572" />
+      <point type="curve" x="319" y="513" />
+      <point type="line" x="169" y="517" />
       <point x="139" y="517" />
       <point x="79" y="513" />
       <point type="curve" x="79" y="453" />
@@ -32,16 +42,6 @@
       <point x="638" y="512" />
       <point type="curve" x="635" y="517" />
       <point type="line" x="400" y="513" />
-      <point type="line" x="403" y="708" />
-      <point x="398" y="710" />
-      <point x="388" y="714" />
-      <point type="curve" x="379" y="714" />
-      <point x="319" y="714" />
-      <point x="314" y="656" />
-      <point type="curve" x="314" y="626" />
-      <point x="316" y="598" />
-      <point x="317" y="572" />
-      <point type="curve" x="319" y="513" />
     </contour>
     <contour>
       <point type="line" x="169" y="160" />

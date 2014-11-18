@@ -5,25 +5,25 @@
   <outline>
     <contour>
       <point x="512" y="522" type="curve" smooth="yes"/>
-      <point x="527" y="522"/>
-      <point x="542" y="514"/>
-      <point x="546" y="493" type="curve"/>
-      <point x="521" y="480"/>
-      <point x="496" y="455"/>
-      <point x="481" y="438" type="curve" smooth="yes"/>
-      <point x="137" y="27" type="line" smooth="yes"/>
-      <point x="114" y="1"/>
-      <point x="95" y="-9"/>
-      <point x="75" y="-9" type="curve" smooth="yes"/>
-      <point x="60" y="-9"/>
-      <point x="44" y="-2"/>
-      <point x="40" y="19" type="curve"/>
-      <point x="65" y="33"/>
-      <point x="91" y="58"/>
-      <point x="105" y="75" type="curve" smooth="yes"/>
-      <point x="449" y="485" type="line" smooth="yes"/>
-      <point x="472" y="511"/>
       <point x="492" y="522"/>
+      <point x="472" y="511"/>
+      <point x="449" y="485" type="curve" smooth="yes"/>
+      <point x="105" y="75" type="line" smooth="yes"/>
+      <point x="91" y="58"/>
+      <point x="65" y="33"/>
+      <point x="40" y="19" type="curve"/>
+      <point x="44" y="-2"/>
+      <point x="60" y="-9"/>
+      <point x="75" y="-9" type="curve" smooth="yes"/>
+      <point x="95" y="-9"/>
+      <point x="114" y="1"/>
+      <point x="137" y="27" type="curve" smooth="yes"/>
+      <point x="481" y="438" type="line" smooth="yes"/>
+      <point x="496" y="455"/>
+      <point x="521" y="480"/>
+      <point x="546" y="493" type="curve"/>
+      <point x="542" y="514"/>
+      <point x="527" y="522"/>
     </contour>
     <component base="o"/>
   </outline>

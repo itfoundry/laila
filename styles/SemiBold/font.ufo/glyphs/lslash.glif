@@ -5,19 +5,19 @@
   <outline>
     <contour>
       <point x="370" y="527" type="curve" smooth="yes"/>
-      <point x="392" y="478"/>
-      <point x="350" y="454"/>
-      <point x="323" y="441" type="curve" smooth="yes"/>
-      <point x="33" y="300" type="line"/>
-      <point x="30" y="303"/>
-      <point x="19" y="309"/>
-      <point x="15" y="315" type="curve" smooth="yes"/>
-      <point x="-7" y="363"/>
-      <point x="40" y="386"/>
-      <point x="67" y="400" type="curve" smooth="yes"/>
-      <point x="358" y="540" type="line"/>
-      <point x="362" y="539"/>
       <point x="367" y="531"/>
+      <point x="362" y="539"/>
+      <point x="358" y="540" type="curve"/>
+      <point x="67" y="400" type="line" smooth="yes"/>
+      <point x="40" y="386"/>
+      <point x="-7" y="363"/>
+      <point x="15" y="315" type="curve" smooth="yes"/>
+      <point x="19" y="309"/>
+      <point x="30" y="303"/>
+      <point x="33" y="300" type="curve"/>
+      <point x="323" y="441" type="line" smooth="yes"/>
+      <point x="350" y="454"/>
+      <point x="392" y="478"/>
     </contour>
     <component base="l" xOffset="39"/>
   </outline>
