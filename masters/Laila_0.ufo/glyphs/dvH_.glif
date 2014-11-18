@@ -9,6 +9,6 @@
       <point x="253" y="646" type="move" name="abvm.bindu"/>
     </contour>
     <component base="dvHA"/>
-    <component base="dvVirama" xOffset="430" yOffset="-107"/>
+    <component base="dvVirama" xOffset="395" yOffset="-76"/>
   </outline>
 </glyph>

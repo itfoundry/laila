@@ -4,6 +4,6 @@
   <outline>
     <component base="dvTTA"/>
     <component base="dvRashtrasign" xOffset="438" yOffset="30"/>
-    <component base="dvVirama" xOffset="367" yOffset="-68"/>
+    <component base="dvVirama" xOffset="348" yOffset="72"/>
   </outline>
 </glyph>

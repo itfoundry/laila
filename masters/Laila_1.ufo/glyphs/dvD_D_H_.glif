@@ -3,6 +3,6 @@
   <advance width="515"/>
   <outline>
     <component base="dvDDHA"/>
-    <component base="dvVirama" xOffset="407" yOffset="21"/>
+    <component base="dvVirama" xOffset="405" yOffset="9"/>
   </outline>
 </glyph>

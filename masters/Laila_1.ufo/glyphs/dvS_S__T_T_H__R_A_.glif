@@ -3,13 +3,7 @@
   <advance width="617"/>
   <outline>
     <contour>
-      <point x="415" y="-227" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
       <point x="475" y="-278" type="move" name="blwm.r"/>
-    </contour>
-    <contour>
-      <point x="534" y="669" type="move" name="abvm.e"/>
     </contour>
     <contour>
       <point x="407" y="-250" type="move" name="blwm.uu"/>
@@ -19,6 +13,12 @@
     </contour>
     <contour>
       <point x="427" y="-151" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="415" y="-227" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="534" y="669" type="move" name="abvm.e"/>
     </contour>
     <component base="dvSS_TTHA"/>
     <component base="dvRashtrasign" xOffset="449" yOffset="23"/>

@@ -28,6 +28,10 @@
 	<string>Hitesh Malaviya (Devanagari), Jonny Pinhorn (Latin)</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Indian Type Foundry</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Laila</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Light</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 001.001</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -139,16 +143,12 @@
 	<integer>50</integer>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
-	<key>postscriptWeightName</key>
-	<string>Light</string>
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
-	<key>styleMapFamilyName</key>
-	<string>Laila</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Light</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

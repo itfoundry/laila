@@ -6,19 +6,19 @@
       <point x="385" y="-145" type="move" name="blwm.r"/>
     </contour>
     <contour>
-      <point x="333" y="-137" type="move" name="blwm.uu"/>
-    </contour>
-    <contour>
       <point x="292" y="646" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="349" y="-102" type="move" name="blwm.virama"/>
     </contour>
     <contour>
+      <point x="485" y="646" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
       <point x="349" y="-134" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="485" y="646" type="move" name="abvm.e"/>
+      <point x="333" y="-137" type="move" name="blwm.uu"/>
     </contour>
     <component base="dvSS_TTA"/>
     <component base="dvRashtrasign" xOffset="522" yOffset="-3"/>

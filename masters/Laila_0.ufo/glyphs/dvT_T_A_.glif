@@ -7,19 +7,19 @@
       <point x="285" y="11" type="move" name="blwm.r"/>
     </contour>
     <contour>
-      <point x="258" y="36" type="move" name="blwm.uu"/>
-    </contour>
-    <contour>
       <point x="222" y="646" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="247" y="71" type="move" name="blwm.virama"/>
     </contour>
     <contour>
+      <point x="296" y="646" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
       <point x="285" y="36" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="296" y="646" type="move" name="abvm.e"/>
+      <point x="258" y="36" type="move" name="blwm.uu"/>
     </contour>
     <contour>
       <point x="242" y="596" type="line"/>
