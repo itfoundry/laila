@@ -30,8 +30,6 @@
 	<string>Ccedilla_.glif</string>
 	<key>Dcaron</key>
 	<string>Dcaron_.glif</string>
-	<key>Dcroat</key>
-	<string>Dcroat_.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>Eacute</key>
@@ -150,8 +148,6 @@
 	<string>amacron.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
-	<key>ampersand.alt</key>
-	<string>ampersand.alt.glif</string>
 	<key>aogonek</key>
 	<string>aogonek.glif</string>
 	<key>aring</key>
@@ -1474,8 +1470,6 @@
 	<string>pi.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
-	<key>plusminus</key>
-	<string>plusminus.glif</string>
 	<key>product</key>
 	<string>product.glif</string>
 	<key>q</key>

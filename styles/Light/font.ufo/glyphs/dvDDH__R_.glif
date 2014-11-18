@@ -2,7 +2,7 @@
 <glyph name="dvDDH_R" format="1">
   <advance width="470"/>
   <outline>
-    <component base="dvVirama" xOffset="398" yOffset="-86"/>
+    <component base="dvVirama" xOffset="375" yOffset="47"/>
     <component base="dvRashtrasign" xOffset="469" yOffset="12"/>
     <component base="dvDDHA"/>
   </outline>

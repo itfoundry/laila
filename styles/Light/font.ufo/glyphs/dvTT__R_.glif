@@ -2,7 +2,7 @@
 <glyph name="dvTT_R" format="1">
   <advance width="434"/>
   <outline>
-    <component base="dvVirama" xOffset="367" yOffset="-68"/>
+    <component base="dvVirama" xOffset="348" yOffset="72"/>
     <component base="dvRashtrasign" xOffset="438" yOffset="30"/>
     <component base="dvTTA"/>
   </outline>

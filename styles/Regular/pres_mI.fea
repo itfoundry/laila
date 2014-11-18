@@ -219,6 +219,7 @@
   dvP_VA
   dvB_TA
   dvB_VA
+  dvBH_R_YA
   dvM_TA
   dvM_PA
   dvM_P_RA
@@ -264,7 +265,6 @@
   dvB_BH_RA
   dvB_YA
   dvBH_YA
-  dvBH_R_YA
   dvBH_VA
   dvM_BA
   dvM_YA
@@ -282,6 +282,7 @@
 @mI_BASES_13 = [
   dvK_TTA
   dvG_BHA
+  dvG_SA
   dvGH_MA
   dvGH_YA
   dvC_CA
@@ -355,8 +356,10 @@
   dvSH_CHA
   dvSH_MA
   dvSH_YA
+  dvSH_SHA
   dvS_MA
   dvS_YA
+  dvLL_YA
 ];
 
 @mI_BASES_15 = [
@@ -374,7 +377,6 @@
   dvKH_TA
   dvKHx_TA
   dvG_NNA
-  dvG_SA
   dvJH_YA
   dvNY_CA
   dvNY_CHA
@@ -419,7 +421,6 @@
   dvPH_YA
   dvL_THA
   dvSH_LA
-  dvSH_SHA
   dvS_JA
   dvS_LA
   dvS_SA
@@ -440,7 +441,6 @@
   dvL_SA
   dvSS_TT_YA
   dvSS_TTH_YA
-  dvLL_YA
 ];
 
 @mI_BASES_18 = [

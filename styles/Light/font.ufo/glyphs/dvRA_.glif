@@ -4,7 +4,7 @@
   <unicode hex="0930"/>
   <outline>
     <contour>
-      <point x="342" y="-74" type="move" name="blwm.r"/>
+      <point x="175" y="646" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="280" y="-14" type="move" name="blwm.virama"/>
@@ -13,7 +13,7 @@
       <point x="266" y="646" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="175" y="646" type="move" name="abvm.bindu"/>
+      <point x="342" y="-74" type="move" name="blwm.r"/>
     </contour>
     <contour>
       <point x="150" y="279" type="line"/>

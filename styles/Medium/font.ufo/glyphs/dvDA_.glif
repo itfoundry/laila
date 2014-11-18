@@ -7,7 +7,7 @@
       <point x="246" y="656" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="369" y="-41" type="move" name="blwm.uu"/>
+      <point x="366" y="-68" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="376" y="656" type="move" name="abvm.e"/>
@@ -16,7 +16,7 @@
       <point x="376" y="-44" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="366" y="-68" type="move" name="blwm.virama"/>
+      <point x="369" y="-41" type="move" name="blwm.uu"/>
     </contour>
     <contour>
       <point x="359" y="190" type="line"/>

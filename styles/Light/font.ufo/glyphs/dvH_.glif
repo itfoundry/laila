@@ -8,7 +8,7 @@
     <contour>
       <point x="348" y="646" type="move" name="abvm.e"/>
     </contour>
-    <component base="dvVirama" xOffset="430" yOffset="-107"/>
+    <component base="dvVirama" xOffset="395" yOffset="-76"/>
     <component base="dvHA"/>
   </outline>
 </glyph>

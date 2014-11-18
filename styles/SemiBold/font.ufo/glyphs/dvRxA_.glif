@@ -4,7 +4,7 @@
   <unicode hex="0931"/>
   <outline>
     <contour>
-      <point x="349" y="-104" type="move" name="blwm.r"/>
+      <point x="144" y="662" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="329" y="-11" type="move" name="blwm.virama"/>
@@ -13,7 +13,7 @@
       <point x="293" y="662" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="144" y="662" type="move" name="abvm.bindu"/>
+      <point x="349" y="-104" type="move" name="blwm.r"/>
     </contour>
     <component base="dvRA"/>
     <component base="dvNukta" xOffset="332" yOffset="129"/>

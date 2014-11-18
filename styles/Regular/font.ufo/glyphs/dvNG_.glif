@@ -2,7 +2,7 @@
 <glyph name="dvNG" format="1">
   <advance width="546"/>
   <outline>
-    <component base="dvVirama" xOffset="386" yOffset="13"/>
+    <component base="dvVirama" xOffset="391" yOffset="33"/>
     <component base="dvNGA"/>
   </outline>
 </glyph>
